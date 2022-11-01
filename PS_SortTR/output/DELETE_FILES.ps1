@@ -1,0 +1,1 @@
+Get-ChildItem -Path ./ -Include *.pdf -File -Recurse | foreach { $_.Delete()}
