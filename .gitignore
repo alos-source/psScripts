@@ -1,0 +1,6 @@
+# ignore non powershell files
+*.log
+*.pdf
+*.txt
+*.bat
+*.sh
